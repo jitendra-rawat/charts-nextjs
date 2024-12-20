@@ -18,7 +18,7 @@ export default function Home() {
    <SpeedChart />
    <AccelerationChart />
    <EventBarChart />
-
+    
    <GpsChart />
    <SensorChart />
    <SystemStatusChart />
